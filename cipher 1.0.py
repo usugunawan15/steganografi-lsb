@@ -30,6 +30,8 @@ for symbol in message:
 print(translated)
 
 
+
+
 ------------------------
 || Caesar Chipper 2.0 ||
 ------------------------
